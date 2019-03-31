@@ -1,0 +1,36 @@
+Mohan Foh
+CPSC 1010-003, CPSC 1011-003
+Lab 08 - Part 2
+10/16/18
+I worked with John Chimento (1010-001) and Ashton Sobeck (1010-003).
+
+//Prompt the user to enter a string (up to 25 characters to be transformed
+//While "quit" is not the command
+	//Ask the user to enter a command (quit or replace all)
+	//*function*Make the whole command string lowercase
+	//*function: boolean*Return true if command string is "quit or "replace all"
+	//If the user command is "replace all"
+		//Ask which character the user wants to replace
+			//*function*Checks whether character to be replaced is in string
+		//if user character is in string
+			//Ask what will be put in the replaced character's place
+			//*function*Replace the characters with the user input one and output new string
+
+
+//*function: boolean* Checks whether character to be replaced is in string
+	//If the character is not in the string 
+		//Prompt an error message to the user	
+//*function: boolean* Returns true if command string is "quit or "replace all"
+	//for the entire length of the string
+		//check whether character is lowercase
+		//if not character lowercase
+			//make lowercase
+	//If string is "quit" or "replace all"
+		//return true
+	//If string is not "quit" or "replace all"
+		//return false
+//*function: void* Replaces the characters with the user input one and outputs new string
+	//for the entire length of the string
+		//if the chracter is to be replaced
+			//replace with the user input character
+	//Output the new sentence with the replaced characters

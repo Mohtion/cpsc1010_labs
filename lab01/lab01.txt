@@ -1,0 +1,16 @@
+Mohan Foh
+C54040213
+CPSC 1010-003 and 1011-003
+Lab 01 - Exercise 1
+
+1. GNU Emacs 24 (GUI), GNU Emacs 24 (Terminal), GVim, Vim, Geany, Kate, LibreOffice Writer, Okular, Atom, gedit
+
+2. Answer at top
+
+3. "rm", then the name of the file
+
+4. Chromium Web Browser, Firefox Web Browser, Google Chrome. None of the browsers are compatible at the moment. I would determine this by opening a java or flash file and observing the functionality in each.
+
+5. ImageMagik, Okular, GIMP
+
+6. "mkdir cpsc1011", Enter, "cd cpsc1011", Enter, "mkdir lab01", "cd lab01", Enter, "mkdir inlab", Enter
